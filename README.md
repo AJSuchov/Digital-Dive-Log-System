@@ -5,38 +5,36 @@
 
 **1. Project Abstract with Team names and Advisor name**
 
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki
+
 **2. Project Description**
+
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Project-Descirption
 
 **3. User Stories and Design Diagrams**
 
-* User Stories
-
-* Design Diagrams: Level 0, Level 1 and Level 2 
-
-* Description of the Diagrams: including conventions and a brief description of the purpose of each component.
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/User-Strories-and-Design-Diagrams
 
 **4. Project Tasks and Timeline** 
 
-* Task List
-
-* Timeline
-
-* Effort Matrix
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Project-Tasks,-Timeline,-and-Effort-Matrix
 
 **5. PPT Slideshow**
 
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/PowerPoint-Presentation
+
 **6. Self-Assessment Essays**
+
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Self-Assessment-Essays
 
 **7. Professional Biographies**
 
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Professional-Biographies
+
 **8. Budget** 
 
-* Expenses to date or statement that there have not been any.
-
-* Monetary value of donated items and donation sources.
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Budget
 
 **9. Appendix** 
 
-* include appropriate references, citations, links to code repositories, and meeting notes. (Link back to original repository)
-
-* there should be evidence justifying 45 hours of effort for each team member. (TIme Sheet Link)
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Appendix
