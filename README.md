@@ -38,3 +38,7 @@ https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Budget
 **9. Appendix** 
 
 https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Appendix
+
+**10. Expo Poster**
+
+https://github.com/AJSuchov/Digital-Dive-Log-System/wiki/Expo-Poster
