@@ -1,6 +1,6 @@
 # Digital-Dive-Log-System
 
-### Table of Contents for Fall Design Reports
+### Table of Contents for Design Reports
 
 
 **1. Project Abstract with Team names and Advisor name**
